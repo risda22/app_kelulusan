@@ -1,4 +1,5 @@
 <?php session_start(); ?>
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -48,5 +49,10 @@
             <a href="admin.php" class="button">Dashboard Admin</a><br>
         <?php endif; ?>
     </div>
+
+  <!-- Tombol Kembali ke Portal Sekolah -->
+  <div style="margin-top: 20px;">
+    <a href="http://portal.smkxyz.sch.local" class="back-button">← Kembali ke Portal Sekolah</a>
+  </div>
 </body>
 </html>
