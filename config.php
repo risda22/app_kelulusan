@@ -1,5 +1,5 @@
 <?php
-$host = "192.168.99.154";
+$host = "db.smkxyz.sch.local";
 $user = "appdb";
 $pass = "Appdb123!";
 $db = "kelulusandb";
